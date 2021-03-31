@@ -5,9 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: "Design\_.\_Development\_.\_Marketing\_.\_Strategy"
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      The Website Cannon focuses on top-notch customer service, utilizing the
+      latest technologies, and empowering clients with autonomous tools and
+      training. We team up with top industry leaders to bring our clients
+      dazzling products and reliable customer support.
     actions:
       - label: Let's talk
         url: /contact
